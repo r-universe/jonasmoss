@@ -1,0 +1,26 @@
+[
+  {
+    "package": "attenuation",
+    "oncran": true
+  },
+  {
+    "package": "conogive",
+    "oncran": true
+  },
+  {
+    "package": "kdensity",
+    "oncran": true
+  },
+  {
+    "package": "nakagami",
+    "oncran": true
+  },
+  {
+    "package": "subformula",
+    "oncran": true
+  },
+  {
+    "package": "univariateML",
+    "oncran": true
+  }
+]
