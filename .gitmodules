@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "alphaci"]
+	path = alphaci
+	url = https://github.com/jonasmoss/alphaci
+	shallow = true
+	registered = true
 [submodule "attenuation"]
 	path = attenuation
 	url = https://github.com/jonasmoss/attenuation

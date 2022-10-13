@@ -1,5 +1,9 @@
 [
   {
+    "package": "alphaci",
+    "oncran": true
+  },
+  {
     "package": "attenuation",
     "oncran": true
   },
