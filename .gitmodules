@@ -8,14 +8,9 @@
 	url = https://github.com/jonasmoss/alphaci
 	shallow = true
 	registered = true
-[submodule "attenuation"]
-	path = attenuation
-	url = https://github.com/jonasmoss/attenuation
-	shallow = true
-	registered = true
-[submodule "conogive"]
-	path = conogive
-	url = https://github.com/jonasmoss/conogive
+[submodule "subformula"]
+	path = subformula
+	url = https://github.com/jonasmoss/subformula
 	shallow = true
 	registered = true
 [submodule "kdensity"]
@@ -28,13 +23,18 @@
 	url = https://github.com/jonasmoss/nakagami
 	shallow = true
 	registered = true
-[submodule "subformula"]
-	path = subformula
-	url = https://github.com/jonasmoss/subformula
-	shallow = true
-	registered = true
 [submodule "univariateML"]
 	path = univariateML
 	url = https://github.com/jonasmoss/univariateml
+	shallow = true
+	registered = true
+[submodule "attenuation"]
+	path = attenuation
+	url = https://github.com/jonasmoss/attenuation
+	shallow = true
+	registered = true
+[submodule "conogive"]
+	path = conogive
+	url = https://github.com/jonasmoss/conogive
 	shallow = true
 	registered = true

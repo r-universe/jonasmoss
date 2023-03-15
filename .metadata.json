@@ -4,11 +4,7 @@
     "oncran": true
   },
   {
-    "package": "attenuation",
-    "oncran": true
-  },
-  {
-    "package": "conogive",
+    "package": "subformula",
     "oncran": true
   },
   {
@@ -20,11 +16,15 @@
     "oncran": true
   },
   {
-    "package": "subformula",
+    "package": "univariateML",
     "oncran": true
   },
   {
-    "package": "univariateML",
+    "package": "attenuation",
+    "oncran": true
+  },
+  {
+    "package": "conogive",
     "oncran": true
   }
 ]
