@@ -20,6 +20,10 @@
     "oncran": true
   },
   {
+    "package": "publipha",
+    "oncran": true
+  },
+  {
     "package": "subformula",
     "oncran": true
   },

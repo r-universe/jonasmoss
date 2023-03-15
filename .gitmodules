@@ -28,6 +28,11 @@
 	url = https://github.com/jonasmoss/nakagami
 	shallow = true
 	registered = true
+[submodule "publipha"]
+	path = publipha
+	url = https://github.com/jonasmoss/publipha
+	shallow = true
+	registered = true
 [submodule "subformula"]
 	path = subformula
 	url = https://github.com/jonasmoss/subformula
