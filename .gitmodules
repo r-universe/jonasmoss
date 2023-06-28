@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "alphaci"]
 	path = alphaci
 	url = https://github.com/jonasmoss/alphaci
-	shallow = true
-	registered = true
 [submodule "attenuation"]
 	path = attenuation
 	url = https://github.com/jonasmoss/attenuation
-	shallow = true
-	registered = true
 [submodule "conogive"]
 	path = conogive
 	url = https://github.com/jonasmoss/conogive
-	shallow = true
-	registered = true
 [submodule "kdensity"]
 	path = kdensity
 	url = https://github.com/jonasmoss/kdensity
-	shallow = true
-	registered = true
 [submodule "nakagami"]
 	path = nakagami
 	url = https://github.com/jonasmoss/nakagami
-	shallow = true
-	registered = true
 [submodule "publipha"]
 	path = publipha
 	url = https://github.com/jonasmoss/publipha
-	shallow = true
-	registered = true
 [submodule "subformula"]
 	path = subformula
 	url = https://github.com/jonasmoss/subformula
-	shallow = true
-	registered = true
 [submodule "univariateML"]
 	path = univariateML
 	url = https://github.com/jonasmoss/univariateml
-	shallow = true
-	registered = true
