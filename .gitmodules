@@ -20,6 +20,9 @@
 [submodule "publipha"]
 	path = publipha
 	url = https://github.com/jonasmoss/publipha
+[submodule "semTests"]
+	path = semTests
+	url = https://github.com/jonasmoss/semtests
 [submodule "subformula"]
 	path = subformula
 	url = https://github.com/jonasmoss/subformula
