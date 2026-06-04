@@ -7,7 +7,7 @@
 	url = https://github.com/jonasmoss/attenuation
 [submodule "conogive"]
 	path = conogive
-	url = https://github.com/jonasmoss/conogive
+	url = https://github.com/cran/conogive
 [submodule "kdensity"]
 	path = kdensity
 	url = https://github.com/jonasmoss/kdensity
