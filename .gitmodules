@@ -8,12 +8,12 @@
 [submodule "magmaan"]
 	path = magmaan
 	url = https://github.com/JonasMoss/magmaan
-	branch = v0.2.1
+	branch = v0.2.2
 	subdir = r-magmaan
 [submodule "magmaanlab"]
 	path = magmaanlab
 	url = https://github.com/JonasMoss/magmaan
-	branch = v0.2.1
+	branch = v0.2.2
 	subdir = r-package
 [submodule "nakagami"]
 	path = nakagami
