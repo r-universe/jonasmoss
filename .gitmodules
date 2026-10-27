@@ -1,19 +1,29 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jonasmoss/jonasmoss.r-universe.dev
 	branch = HEAD
 [submodule "kdensity"]
 	path = kdensity
-	url = https://github.com/jonasmoss/kdensity
+	url = https://github.com/JonasMoss/kdensity
+[submodule "magmaan"]
+	path = magmaan
+	url = https://github.com/JonasMoss/magmaan
+	branch = *release
+	subdir = r-magmaan
+[submodule "magmaanlab"]
+	path = magmaanlab
+	url = https://github.com/JonasMoss/magmaan
+	branch = *release
+	subdir = r-package
 [submodule "nakagami"]
 	path = nakagami
-	url = https://github.com/jonasmoss/nakagami
+	url = https://github.com/JonasMoss/nakagami
 [submodule "publipha"]
 	path = publipha
-	url = https://github.com/jonasmoss/publipha
+	url = https://github.com/JonasMoss/publipha
 [submodule "semTests"]
 	path = semTests
-	url = https://github.com/jonasmoss/semtests
+	url = https://github.com/JonasMoss/semtests
 [submodule "univariateML"]
 	path = univariateML
-	url = https://github.com/jonasmoss/univariateml
+	url = https://github.com/JonasMoss/univariateml

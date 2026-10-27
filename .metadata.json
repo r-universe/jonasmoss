@@ -1,0 +1,10 @@
+[
+  {
+    "package": "magmaanlab",
+    "releasetag": true
+  },
+  {
+    "package": "magmaan",
+    "releasetag": true
+  }
+]
